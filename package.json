@@ -1,0 +1,28 @@
+{
+  "name": "lesson-1",
+  "version": "1.0.0",
+  "description": "Batch 1 JS APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chyedriansa/Lesson1.git"
+  },
+  "keywords": [
+    "basic",
+    "JavaScript",
+    "first",
+    "app"
+  ],
+  "author": "Ler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chyedriansa/Lesson1/issues"
+  },
+  "homepage": "https://github.com/chyedriansa/Lesson1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
